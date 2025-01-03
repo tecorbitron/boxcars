@@ -8,7 +8,7 @@ import Image from 'next/image'
 const WhyChoose = () => {
     return (
         <div className='py-20 text-custom-primary'>
-            <h2 className='text-4xl font-bold px-4 mb-5'>Why Choose Us?</h2>
+            <h2 className='text-3xl md:text-4xl font-bold px-4 mb-10'>Why Choose Us?</h2>
 
             <div className="flex flex-wrap">
                 <div className="w-full md:w-1/4 p-4">

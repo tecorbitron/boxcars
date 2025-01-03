@@ -40,7 +40,7 @@ const HeroSlider = () => {
             img: sliderImg3,
         },
         {
-            name: "Audi A4, 4.5 New",   
+            name: "Audi A4, 4.5 New",
             price: "250,000",
             fuelType: "Petrol",
             Mileage: "60 Miles",

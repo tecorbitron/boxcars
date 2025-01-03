@@ -48,8 +48,8 @@ const ExploreVehicles = () => {
 
     return (
         <div className="mx-auto px-4 py-20">
-            <div className="flex flex-col md:flex-row justify-between md:items-center gap-3 mb-6">
-                <h1 className="text-3xl font-bold">Explore All Vehicles</h1>
+            <div className="flex flex-col md:flex-row justify-between md:items-center gap-3 mb-10">
+                <h1 className="text-3xl md:text-4xl font-bold">Explore All Vehicles</h1>
                 <Link href="#" className="flex items-center gap-1 text-custom-primary hover:underline">
                     View All <MoveUpRight size={16} />
                 </Link>
